@@ -1,0 +1,16 @@
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/henrylee2cn/ameda v1.4.8
+github.com/henrylee2cn/ameda
+# github.com/dingjingmasster/goutil
+github.com/dingjingmasster/goutil
+github.com/dingjingmasster/goutil/bitset
+github.com/dingjingmasster/goutil/calendar
+github.com/dingjingmasster/goutil/coarsetime
+github.com/dingjingmasster/goutil/graceful
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.4.0
+github.com/stretchr/testify/assert
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/henrylee2cn/goutil/bitset"
+	"github.com/dingjingmasster/goutil/bitset"
 )
 
 func TestBitSet(t *testing.T) {
